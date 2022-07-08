@@ -808,6 +808,17 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	name = "Great Khan"
 	icon_state = "Pusher"
 
+/obj/effect/landmark/start/f13/enforcer
+	name = "Den Mob Enforcer"
+	icon_state = "Enforcer"
+
+/obj/effect/landmark/start/f13/dendoctor
+	name = "Den Doctor"
+
+/obj/effect/landmark/start/f13/mobboss
+	name = "Den Mob Boss"
+	icon_state = "Boss"
+
 /obj/effect/landmark/start/f13/preacher
 	name = "Preacher"
 	icon_state = "Preacher"
@@ -838,6 +849,10 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	name = "Enclave Sergeant"
 	icon_state = "ussgt"
 
+/obj/effect/landmark/start/f13/usio
+	name = "Enclave Intelligence Officer"
+	icon_state = "usio"
+
 /obj/effect/landmark/start/f13/usai
 	name = "Enclave Armored Infantry"
 	icon_state = "ussgt"
@@ -853,6 +868,10 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 /obj/effect/landmark/start/f13/usscientist
 	name = "Enclave Scientist"
 	icon_state = "usscientist"
+
+/obj/effect/landmark/start/f13/usminirsci
+	name = "Enclave Junior Scientist"
+	icon_state = "usminorsci"
 
 /obj/effect/landmark/start/f13/uslightduty
 	name = "Enclave Bunker Duty"
